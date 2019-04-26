@@ -143,6 +143,15 @@ here `^[` stands for ASCII ESC (27 decimal); moreover, `^D` stands
 for ASCII EOT (4 decimal), which terminates the PostScript code.
 
 
+Test Data
+---------
+
+Once I had a large collection of print jobs. They cannot 
+be published. Instead, a few PostScript and PCL files, most 
+wrapped in PJL, can be found in the *jobs* folder, and the 
+*test.sh* script will apply joblex to all of them.
+
+
 License
 -------
 
