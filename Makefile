@@ -15,5 +15,5 @@ test: joblex
 clean:
 	rm -f *.o joblex.c joblex
 
-.PHONY: all clean
+.PHONY: all clean test
 
