@@ -24,6 +24,10 @@ sensitive (in the code, `%s` lines declare start states and
 a state name in angle brackets limits the following pattern 
 to that state).
 
+Another approach was to send PostScript print files through
+GhostScript using the null device, which still allows page
+counting; see the *pagecount.sh* script.
+
 
 Building
 --------
